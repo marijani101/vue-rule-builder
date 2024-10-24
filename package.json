@@ -35,7 +35,7 @@
     "normalizr": "^3.2.4",
     "omit-deep-lodash": "^1.0.0",
     "uuid": "^3.3.2",
-    "vue": "^2.5.16"
+    "vue": "^3.0.0"
   },
   "devDependencies": {
     "@storybook/addon-actions": "^3.4.8",
